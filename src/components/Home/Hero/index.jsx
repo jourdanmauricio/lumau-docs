@@ -15,7 +15,7 @@ const Hero = () => {
             className="btn-primary"
             to="/docs/intro"
           >
-            Comenzar Tutorial
+            Comenzar Tutorial!
           </Link>
         </div>
       </div>
