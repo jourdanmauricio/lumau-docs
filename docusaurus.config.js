@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'jourdanmauricio',
   projectName: 'lumau-docs',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
