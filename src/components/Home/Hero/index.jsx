@@ -7,7 +7,7 @@ const Hero = () => {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className="text-mode bg-mode">
-      <div className="container py-24 mx-auto text-center">
+      <div className="container py-8 mx-auto text-center">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="paragraph-mode hero__subtitle">{siteConfig.tagline}</p>
         <div className="py-10">
