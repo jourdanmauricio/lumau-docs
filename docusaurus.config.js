@@ -13,7 +13,7 @@ const config = {
   // Set the production url of your site here
   url: 'https://jourdanmauricio.github.io/',
 
-  baseUrl: '/',
+  baseUrl: '/lumau-docs',
   organizationName: 'jourdanmauricio',
   projectName: 'lumau-docs',
   deploymentBranch: 'gh-pages',
