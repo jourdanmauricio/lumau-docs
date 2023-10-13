@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3387],{9679:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/lumau-docs/blog/tags/hello","allTagsPath":"/lumau-docs/blog/tags","count":2}')}}]);
