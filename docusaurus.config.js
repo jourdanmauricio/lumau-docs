@@ -12,11 +12,10 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://jourdanmauricio.github.io/',
-
-  baseUrl: '/lumau-docs',
-  organizationName: 'jourdanmauricio',
+  baseUrl: '/lumau-docs/',
   projectName: 'lumau-docs',
-  deploymentBranch: 'gh-pages',
+  organizationName: 'jourdanmauricio',
+  // deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
