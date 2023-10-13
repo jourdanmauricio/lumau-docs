@@ -11,7 +11,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://jourdanmauricio.github.io/',
+  // url: 'https://jourdanmauricio.github.io/',
+  url: 'https://docs.lumau.com.ar/',
   baseUrl: '/',
   projectName: 'lumau-docs',
   organizationName: 'jourdanmauricio',
