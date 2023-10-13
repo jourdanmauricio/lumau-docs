@@ -12,9 +12,11 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://jourdanmauricio.github.io/',
+
   baseUrl: '/',
   organizationName: 'jourdanmauricio',
   projectName: 'lumau-docs',
+  deploymentBranch: 'main',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
